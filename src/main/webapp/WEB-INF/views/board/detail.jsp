@@ -13,6 +13,7 @@
     <hr />
     <div>
         <div>${board.content}</div>
+
     </div>
     <hr />
 </div>
